@@ -65,3 +65,9 @@ Under the guidance of Dr. Peda Gopi Arepalli & K. Jyosthna
 ## 🌐 License
 
 Open for educational use. Contact for collaboration.
+
+## 📺 Full Demo Video
+
+[▶️ Watch Full Demo on Google Drive]
+
+https://drive.google.com/file/d/1fsjYgX5msgtyckHfGpDSuvrwwEaVTpyQ/view?usp=sharing
