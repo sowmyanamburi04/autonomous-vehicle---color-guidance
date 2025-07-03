@@ -47,12 +47,6 @@ Guide an autonomous vehicle using predefined color cues such as red, green, blue
 
 ---
 
-## 📽️ Demo
-
-Coming soon: Upload a short demo GIF or video of the vehicle moving.
-
----
-
 ## 📚 Credits
 
 Developed by:
